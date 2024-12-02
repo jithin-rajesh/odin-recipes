@@ -1,0 +1,25 @@
+* {
+    margin: 30px;
+    background: black;
+}
+
+h1 {
+    margin: 2em;
+    background: rgb(8, 8, 82);
+    color: white;
+    padding: 10px;
+    border:20px solid rgb(42, 245, 42);
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+li{
+    color:white;
+    background-color:rgb(146, 146, 233);
+    border-radius: 8px;
+}
+
+button{
+    color: white;
+    background: rgb(146, 146, 233)
+}
