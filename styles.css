@@ -18,7 +18,9 @@ li{
     background-color:rgb(146, 146, 233);
     border-radius: 8px;
 }
-
+a {
+    background:rgb(146, 146, 233)
+}
 button{
     color: white;
     background: rgb(146, 146, 233)
